@@ -6,7 +6,9 @@ let store=new Vuex.Store({
     //состояние
     state:{
         currencies: [],
-        cart:[]
+        reserv: {
+
+        }
     },
     //мутации
     mutations:{

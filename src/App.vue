@@ -17,6 +17,7 @@ export default {
 
 <style>
 #app {
-
+  font-family: Montserrat ;
+  color: #ffffff;
 }
 </style>
